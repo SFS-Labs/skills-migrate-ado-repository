@@ -1,6 +1,5 @@
 ado_url: https://dev.azure.com/sfs-labs
 ado_project_name: Mergington
-do_repository_name: mergington-activities
-repository_name: mergington-activities
+ado_repository_name: mergington-activities
 github_org: SFS-Labs
 target_github_repo_name: mergington-activities
